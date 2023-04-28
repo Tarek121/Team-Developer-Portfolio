@@ -1,0 +1,282 @@
+body {
+
+    font-family: 'Poppins', sans-serif;
+
+    /*language font needed here*/
+}
+
+
+/*first section design start from here*/
+.first_section {
+    display: flex;
+    margin-bottom: 4%;
+}
+
+.first_division {
+    width: 50%;
+    margin-top: 5%;
+    margin-right: 10%;
+    margin-left: 10%;
+
+}
+
+
+.second_division {
+    width: 50%;
+
+}
+
+.second_division img {
+    margin-top: 5%;
+    width: 75%;
+    height: 90%;
+
+}
+
+.first_heading {
+    color: rgb(233, 128, 31);
+    font-size: 60px;
+    border-left: solid;
+    border-color: rgb(233, 60, 37);
+    line-height: 110%;
+
+
+
+
+}
+
+.second_heading {
+    font-size: 50px;
+    color: black;
+}
+
+p {
+    font-size: 15px;
+    color: rgb(68, 68, 67);
+}
+
+button {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(salmon, tomato);
+    padding: 12px 50px;
+    border-radius: 5px;
+    font-weight: px;
+    border-style: none;
+}
+
+
+
+/* second section upper work*/
+
+.third_heading {
+    font-size: 50px;
+    margin-left: 33%;
+    margin-right: 30%;
+
+}
+
+.ordinary {
+    color: orange;
+}
+
+
+
+
+
+/*Second section design from here*/
+.second_section {
+    display: flex;
+    margin-bottom: 4%;
+}
+
+
+.illustration1 {
+
+    width: 50%;
+    margin-left: 10%;
+    border-radius: 5%;
+    padding: 2%;
+    background-color: rgb(218, 238, 241);
+
+}
+
+.illustration1 img {
+    width: 50%;
+
+}
+
+.illustration2 {
+
+    width: 50%;
+    margin-left: 3%;
+    border-radius: 5%;
+    padding: 2%;
+    background-color: rgb(241, 221, 231);
+
+}
+
+.illustration2 img {
+    width: 50%;
+}
+
+.illustration3 {
+
+    width: 50%;
+    margin-left: 3%;
+    margin-right: 10%;
+    border-radius: 5%;
+    padding: 2%;
+    background-image: linear-gradient(rgb(248, 199, 228), white);
+}
+
+.illustration3 img {
+    width: 50%;
+}
+
+
+
+/*Third section design from here*/
+
+.third_section {
+    display: flex;
+}
+
+.third_section_frist_division {
+
+    background-image: url(image/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 35%;
+    background-position: left 10% top 50%;
+
+}
+
+
+.third_section_frist_division img {
+    width: 60%;
+    margin-top: 10%;
+    margin-left: 22.50%;
+}
+
+.third_sec_sec_div_heading {
+    font-size: 35px;
+}
+
+.third_section_second_division {
+    width: 130%;
+    margin-top: 4%;
+    margin-right: 10%;
+}
+
+
+
+/*Fourth section design from here*/
+.fourth_section {
+    display: flex;
+    margin-top: 3%;
+    margin-bottom: 2%;
+
+
+
+}
+
+.fourth_sec_sec_div_heading {
+    font-size: 30px;
+}
+
+.fourth_section_first_division {
+
+    width: 120%;
+    margin-top: 3%;
+    margin-left: 10%;
+
+
+}
+
+.fourth_section_second_division {
+
+    background-image: url(image/shape-1.png);
+    background-size: 25%;
+    background-repeat: no-repeat;
+    background-position: right 15% top 120%;
+
+}
+
+.fourth_section_second_division img {
+    width: 60%;
+    margin-top: 9%;
+    margin-left: 18%;
+
+}
+
+
+
+
+/*fifth_section_upper_work*/
+
+.fifth_section_upper_heading {
+    margin-top: 5%;
+    margin-left: 28%;
+    font-size: 45px;
+}
+
+.fifth_section_span {
+    color: rgb(233, 128, 31)
+}
+
+/*fifth section design from here*/
+
+.fifth_section {
+    display: flex;
+}
+
+.fifth_section_frist_division img {
+    width: 90%;
+    height: 90%;
+    margin-left: 80%;
+    background-image: url(image/shape-3.png), url(image/shape-3.png), url(image/shape-3.png);
+    background-repeat: no-repeat;
+    background-size: 60%, 30%, 30%;
+    background-position: left top, left bottom, right bottom 23%;
+}
+
+
+.fifth_section_second_division {
+    margin-top: 5%;
+    margin-right: 9%;
+    margin-bottom: 10%;
+    margin-left: 28%;
+}
+
+
+
+
+/*footer section design from here*/
+
+footer {
+    text-align: center;
+    padding: 3%;
+    background-color: black;
+    text-decoration-color: rgb(255, 255, 255);
+}
+
+/*p {
+    font-family:;
+}*/
+
+.footer_frist_paragraph {
+    font-size: 30px;
+    color: white;
+
+}
+
+.footer_second_paragraph {
+    color: rgb(255, 66, 66);
+    font-size: 30px;
+}
+
+
+.footer_third_paragraph {
+    font-size: 15px;
+    color: white;
+}
